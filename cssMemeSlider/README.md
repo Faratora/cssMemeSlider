@@ -11,6 +11,8 @@ CSS Meme Slider implementation
 - Styled navigation dots with hover and active states
 - Applied BEM methodology for class naming
 - Made slider full-screen with adaptive images
+- Added responsive typography using clamp() for fluid font sizes
+- Implemented media queries for tablet (768px) and mobile (480px) breakpoints
 
 ## Tested Resolutions
 **Mobile:**
