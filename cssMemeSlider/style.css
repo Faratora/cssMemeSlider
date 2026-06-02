@@ -178,7 +178,7 @@ input[type='radio'] {
     width: 0.75rem;
     height: 0.75rem;
     border-radius: 50%;
-    border: 1px solid #2a0fc7;
+    border: 0.06rem solid #2a0fc7;
     background: #2a0fc7;
     transition: all 0.3s ease;
     display: inline-block;
@@ -239,7 +239,7 @@ input[type='radio'] {
 #slide5:checked ~ .slider .slider__dots label[for='slide5'] .slider__dot {
     background: #ffffff;
     transform: scale(1.3);
-    box-shadow: 0 0 8px white;
+    box-shadow: 0 0 0.5rem white;
 }
 
 
@@ -317,11 +317,11 @@ input[type='radio'] {
   
   .slider {
     padding: 0.5rem;
-    border-radius: 14px;
+    border-radius: 0.875rem;
   }
 
   .slider__media {
-    border-radius: 12px;
+    border-radius: 0.75rem;
     margin-bottom: 0.5rem;
   }
 
