@@ -1,0 +1,5 @@
+.vscode/git-commit-snippets.code-snippets
+.vscode/scripts/generate-commit.ps1
+.vscode/settings.json
+.vscode/tasks.json
+scripts/create-commit.ps1
